@@ -125,6 +125,10 @@ ul li a {
   font-weight: 500;
 
   transition: background 0.2s, border 0.2s;
+
+  width: 100%;
+  max-width: 360px;
+  margin: 0 auto;
 }
 
 ul li a:hover {
